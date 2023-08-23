@@ -106,10 +106,10 @@ form button{
     margin:  100px auto 50px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 90px;
+    grid-gap: 60px;
   }
   #search-result img{
-    width: 200%;
+    width: 140%;
     height: 400px;
     border-radius: 8px;
     border: 1px solid rgb(0, 0, 0) ;
