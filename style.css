@@ -99,17 +99,17 @@ form button{
   .header h1{
     text-align: center;
     margin: 100px auto 30px;
-    font-weight: 500;
+    font-weight: 600;
   }
   #search-result{
     width: 80%;
     margin:  100px auto 50px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 40px;
+    grid-gap: 90px;
   }
   #search-result img{
-    width: 110%;
+    width: 200%;
     height: 400px;
     border-radius: 8px;
     border: 1px solid rgb(0, 0, 0) ;
